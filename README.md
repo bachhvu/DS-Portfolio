@@ -1,2 +1,2 @@
-# DS_Portfolio
+# DS-Portfolio
 My data science portfolio
